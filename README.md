@@ -1,11 +1,7 @@
-[Filename.txt](https://github.com/onesitetemp/onesitetemp/files/13062764/Filename.txt)
-- 👋 Hi, I’m @onesitetemp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 onesitetemp/onesitetemp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+](https://github.com/onesitetemp/onesitetemp/blob/4140736af1aff7f8db0ac904bd43015340cb436b/Index.html)https://github.com/onesitetemp/onesitetemp/blob/4140736af1aff7f8db0ac904bd43015340cb436b/Index.html
