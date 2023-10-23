@@ -1,3 +1,5 @@
+gh pr checkout 45
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
